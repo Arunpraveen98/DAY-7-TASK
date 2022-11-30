@@ -1,0 +1,437 @@
+//QUESTION N0-1:-
+^^^^^^^^^^^^^^^
+//Get all the countries from the Asia continent /region using the Filter function:-
+
+
+OUTPUT:-
+
+             THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Maldives
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Pakistan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Malaysia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Uzbekistan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Christmas Island
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Singapore
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Qatar
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Kazakhstan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - British Indian Ocean Territory
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Bahrain
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - India
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Macau
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Syria
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Kyrgyzstan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Palestine
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Taiwan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - South Korea
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Iraq
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Cambodia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Cocos (Keeling) Islands
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Sri Lanka
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Israel
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Tajikistan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Azerbaijan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Georgia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - China
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Thailand
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Indonesia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Turkmenistan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Turkey
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Iran
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Lebanon
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Philippines
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Kuwait
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Oman
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Afghanistan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Armenia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Bangladesh
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Laos
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Nepal
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Myanmar
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - United Arab Emirates
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Bhutan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Jordan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Vietnam
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Brunei
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Japan
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Hong Kong
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Saudi Arabia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - North Korea
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Mongolia
+script.js:12 THE COUNTRY WHICH IS IN ASIA CONTINENT IS - Yemen
+
+------------------------------------------------------------------------------------------------------------
+
+
+//QUESTION NO-2:-
+^^^^^^^^^^^^^^^^
+//Get all the countries with a population of less than 2 lakhs using Filter function:-
+
+
+OUTPUT:-
+
+             THIS COUNTRY Aruba POPULATION 106766 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Wallis and Futuna POPULATION 11750 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Åland Islands POPULATION 29458 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Pitcairn Islands POPULATION 56 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Seychelles POPULATION 98462 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY French Southern and Antarctic Lands POPULATION 400 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Christmas Island POPULATION 2072 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Martin POPULATION 38659 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Heard Island and McDonald Islands POPULATION 0 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Antarctica POPULATION 1000 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Greenland POPULATION 56367 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY British Indian Ocean Territory POPULATION 3000 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Lucia POPULATION 183629 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Niue POPULATION 1470 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Barthélemy POPULATION 4255 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Grenada POPULATION 112519 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Isle of Man POPULATION 85032 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Curaçao POPULATION 155014 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Dominica POPULATION 71991 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Faroe Islands POPULATION 48865 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Montserrat POPULATION 4922 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Cook Islands POPULATION 18100 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Bermuda POPULATION 63903 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY San Marino POPULATION 33938 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Cayman Islands POPULATION 65720 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Cocos (Keeling) Islands POPULATION 544 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY United States Virgin Islands POPULATION 106290 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Norfolk Island POPULATION 2302 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Nauru POPULATION 10834 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Bouvet Island POPULATION 0 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Micronesia POPULATION 115021 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY American Samoa POPULATION 55197 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Anguilla POPULATION 13452 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Marshall Islands POPULATION 59194 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Kiribati POPULATION 119446 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Northern Mariana Islands POPULATION 57557 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Guam POPULATION 168783 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Gibraltar POPULATION 33691 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Vatican City POPULATION 451 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Jersey POPULATION 100800 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Tuvalu POPULATION 11792 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Helena, Ascension and Tristan da Cunha POPULATION 53192 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Samoa POPULATION 198410 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Guernsey POPULATION 62999 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Tonga POPULATION 105697 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Kitts and Nevis POPULATION 53192 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Falkland Islands POPULATION 2563 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Palau POPULATION 18092 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Turks and Caicos Islands POPULATION 38718 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY British Virgin Islands POPULATION 30237 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Liechtenstein POPULATION 38137 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Andorra POPULATION 77265 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Tokelau POPULATION 1411 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Sint Maarten POPULATION 40812 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY United States Minor Outlying Islands POPULATION 300 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Antigua and Barbuda POPULATION 97928 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Pierre and Miquelon POPULATION 6069 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Saint Vincent and the Grenadines POPULATION 110947 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY South Georgia POPULATION 30 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Caribbean Netherlands POPULATION 25987 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Monaco POPULATION 39244 IS LESS THAN 2 LAKHS
+script.js:27 THIS COUNTRY Svalbard and Jan Mayen POPULATION 2562 IS LESS THAN 2 LAKHS
+
+
+------------------------------------------------------------------------------------------------------------
+
+//QUESTION NO-3:-
+^^^^^^^^^^^^^^^
+//Print the total population of countries using reduce function:-
+
+
+OUTPUT:-
+
+THE TOTAL POPULATION OF ALL REST COUNTRIES IS 7777721563
+
+------------------------------------------------------------------------------------------------------------
+
+//QUESTION NO-4:-
+^^^^^^^^^^^^^^^
+//Print the country which uses US Dollars as currency.
+
+OUTPUT:-
+
+0: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Ecuador"
+1: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS British Indian Ocean Territory"
+2: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Puerto Rico"
+3: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Timor-Leste"
+4: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Cambodia"
+5: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS United States Virgin Islands"
+6: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Micronesia"
+7: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS American Samoa"
+8: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Marshall Islands"
+9: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Bahamas"
+10: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Northern Mariana Islands"
+11: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Guam"
+12: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS El Salvador"
+13: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Panama"
+14: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS United States"
+15: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Palau"
+16: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Turks and Caicos Islands"
+17: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS British Virgin Islands"
+18: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS United States Minor Outlying Islands"
+19: "THE COUNTRIES WHICH HAS CURRENCY AS USD IS Caribbean Netherlands
+
+
+-----------------------------------------------------------------------------------------------------------
+
+//QUESTION NO-5:-
+^^^^^^^^^^^^^^^^
+//Print the following details name, capital, flag using forEach function:-
+
+
+OUTPUT:-
+
+             THE COUNTRY NAME WAS - Mauritania AND THEIR CAPITAL,FLAG IS Nouakchott,🇲🇷
+script.js:79 THE COUNTRY NAME WAS - Aruba AND THEIR CAPITAL,FLAG IS Oranjestad,🇦🇼
+script.js:79 THE COUNTRY NAME WAS - Argentina AND THEIR CAPITAL,FLAG IS Buenos Aires,🇦🇷
+script.js:79 THE COUNTRY NAME WAS - Sweden AND THEIR CAPITAL,FLAG IS Stockholm,🇸🇪
+script.js:79 THE COUNTRY NAME WAS - Maldives AND THEIR CAPITAL,FLAG IS Malé,🇲🇻
+script.js:79 THE COUNTRY NAME WAS - Mexico AND THEIR CAPITAL,FLAG IS Mexico City,🇲🇽
+script.js:79 THE COUNTRY NAME WAS - New Zealand AND THEIR CAPITAL,FLAG IS Wellington,🇳🇿
+script.js:79 THE COUNTRY NAME WAS - Ecuador AND THEIR CAPITAL,FLAG IS Quito,🇪🇨
+script.js:79 THE COUNTRY NAME WAS - Wallis and Futuna AND THEIR CAPITAL,FLAG IS Mata-Utu,🇼🇫
+script.js:79 THE COUNTRY NAME WAS - Åland Islands AND THEIR CAPITAL,FLAG IS Mariehamn,🇦🇽
+script.js:79 THE COUNTRY NAME WAS - Montenegro AND THEIR CAPITAL,FLAG IS Podgorica,🇲🇪
+script.js:79 THE COUNTRY NAME WAS - Pakistan AND THEIR CAPITAL,FLAG IS Islamabad,🇵🇰
+script.js:79 THE COUNTRY NAME WAS - Pitcairn Islands AND THEIR CAPITAL,FLAG IS Adamstown,🇵🇳
+script.js:79 THE COUNTRY NAME WAS - Zambia AND THEIR CAPITAL,FLAG IS Lusaka,🇿🇲
+script.js:79 THE COUNTRY NAME WAS - Seychelles AND THEIR CAPITAL,FLAG IS Victoria,🇸🇨
+script.js:79 THE COUNTRY NAME WAS - Malaysia AND THEIR CAPITAL,FLAG IS Kuala Lumpur,🇲🇾
+script.js:79 THE COUNTRY NAME WAS - Norway AND THEIR CAPITAL,FLAG IS Oslo,🇳🇴
+script.js:79 THE COUNTRY NAME WAS - Uzbekistan AND THEIR CAPITAL,FLAG IS Tashkent,🇺🇿
+script.js:79 THE COUNTRY NAME WAS - Vanuatu AND THEIR CAPITAL,FLAG IS Port Vila,🇻🇺
+script.js:79 THE COUNTRY NAME WAS - French Southern and Antarctic Lands AND THEIR CAPITAL,FLAG IS Port-aux-Français,🇹🇫
+script.js:79 THE COUNTRY NAME WAS - Christmas Island AND THEIR CAPITAL,FLAG IS Flying Fish Cove,🇨🇽
+script.js:79 THE COUNTRY NAME WAS - Singapore AND THEIR CAPITAL,FLAG IS Singapore,🇸🇬
+script.js:79 THE COUNTRY NAME WAS - Suriname AND THEIR CAPITAL,FLAG IS Paramaribo,🇸🇷
+script.js:79 THE COUNTRY NAME WAS - Western Sahara AND THEIR CAPITAL,FLAG IS El Aaiún,🇪🇭
+script.js:79 THE COUNTRY NAME WAS - Saint Martin AND THEIR CAPITAL,FLAG IS Marigot,🇲🇫
+script.js:79 THE COUNTRY NAME WAS - Costa Rica AND THEIR CAPITAL,FLAG IS San José,🇨🇷
+script.js:79 THE COUNTRY NAME WAS - Heard Island and McDonald Islands AND THEIR CAPITAL,FLAG IS undefined,🇭🇲
+script.js:79 THE COUNTRY NAME WAS - Ireland AND THEIR CAPITAL,FLAG IS Dublin,🇮🇪
+script.js:79 THE COUNTRY NAME WAS - Antarctica AND THEIR CAPITAL,FLAG IS undefined,🇦🇶
+script.js:79 THE COUNTRY NAME WAS - Australia AND THEIR CAPITAL,FLAG IS Canberra,🇦🇺
+script.js:79 THE COUNTRY NAME WAS - Libya AND THEIR CAPITAL,FLAG IS Tripoli,🇱🇾
+script.js:79 THE COUNTRY NAME WAS - Qatar AND THEIR CAPITAL,FLAG IS Doha,🇶🇦
+script.js:79 THE COUNTRY NAME WAS - Greenland AND THEIR CAPITAL,FLAG IS Nuuk,🇬🇱
+script.js:79 THE COUNTRY NAME WAS - Mauritius AND THEIR CAPITAL,FLAG IS Port Louis,🇲🇺
+script.js:79 THE COUNTRY NAME WAS - Kazakhstan AND THEIR CAPITAL,FLAG IS Nur-Sultan,🇰🇿
+script.js:79 THE COUNTRY NAME WAS - British Indian Ocean Territory AND THEIR CAPITAL,FLAG IS Diego Garcia,🇮🇴
+script.js:79 THE COUNTRY NAME WAS - Albania AND THEIR CAPITAL,FLAG IS Tirana,🇦🇱
+script.js:79 THE COUNTRY NAME WAS - Bahrain AND THEIR CAPITAL,FLAG IS Manama,🇧🇭
+script.js:79 THE COUNTRY NAME WAS - Papua New Guinea AND THEIR CAPITAL,FLAG IS Port Moresby,🇵🇬
+script.js:79 THE COUNTRY NAME WAS - Burundi AND THEIR CAPITAL,FLAG IS Gitega,🇧🇮
+script.js:79 THE COUNTRY NAME WAS - India AND THEIR CAPITAL,FLAG IS New Delhi,🇮🇳
+script.js:79 THE COUNTRY NAME WAS - Uruguay AND THEIR CAPITAL,FLAG IS Montevideo,🇺🇾
+script.js:79 THE COUNTRY NAME WAS - Saint Lucia AND THEIR CAPITAL,FLAG IS Castries,🇱🇨
+script.js:79 THE COUNTRY NAME WAS - Barbados AND THEIR CAPITAL,FLAG IS Bridgetown,🇧🇧
+script.js:79 THE COUNTRY NAME WAS - New Caledonia AND THEIR CAPITAL,FLAG IS Nouméa,🇳🇨
+script.js:79 THE COUNTRY NAME WAS - Latvia AND THEIR CAPITAL,FLAG IS Riga,🇱🇻
+script.js:79 THE COUNTRY NAME WAS - Estonia AND THEIR CAPITAL,FLAG IS Tallinn,🇪🇪
+script.js:79 THE COUNTRY NAME WAS - Niue AND THEIR CAPITAL,FLAG IS Alofi,🇳🇺
+script.js:79 THE COUNTRY NAME WAS - Saint Barthélemy AND THEIR CAPITAL,FLAG IS Gustavia,🇧🇱
+script.js:79 THE COUNTRY NAME WAS - Puerto Rico AND THEIR CAPITAL,FLAG IS San Juan,🇵🇷
+script.js:79 THE COUNTRY NAME WAS - Grenada AND THEIR CAPITAL,FLAG IS St. George's,🇬🇩
+script.js:79 THE COUNTRY NAME WAS - Macau AND THEIR CAPITAL,FLAG IS undefined,🇲🇴
+script.js:79 THE COUNTRY NAME WAS - Cyprus AND THEIR CAPITAL,FLAG IS Nicosia,🇨🇾
+script.js:79 THE COUNTRY NAME WAS - Isle of Man AND THEIR CAPITAL,FLAG IS Douglas,🇮🇲
+script.js:79 THE COUNTRY NAME WAS - Greece AND THEIR CAPITAL,FLAG IS Athens,🇬🇷
+script.js:79 THE COUNTRY NAME WAS - Syria AND THEIR CAPITAL,FLAG IS Damascus,🇸🇾
+script.js:79 THE COUNTRY NAME WAS - Lithuania AND THEIR CAPITAL,FLAG IS Vilnius,🇱🇹
+script.js:79 THE COUNTRY NAME WAS - Curaçao AND THEIR CAPITAL,FLAG IS Willemstad,🇨🇼
+script.js:79 THE COUNTRY NAME WAS - Dominica AND THEIR CAPITAL,FLAG IS Roseau,🇩🇲
+script.js:79 THE COUNTRY NAME WAS - Niger AND THEIR CAPITAL,FLAG IS Niamey,🇳🇪
+script.js:79 THE COUNTRY NAME WAS - Kyrgyzstan AND THEIR CAPITAL,FLAG IS Bishkek,🇰🇬
+script.js:79 THE COUNTRY NAME WAS - Trinidad and Tobago AND THEIR CAPITAL,FLAG IS Port of Spain,🇹🇹
+script.js:79 THE COUNTRY NAME WAS - Togo AND THEIR CAPITAL,FLAG IS Lomé,🇹🇬
+script.js:79 THE COUNTRY NAME WAS - Palestine AND THEIR CAPITAL,FLAG IS Ramallah,Jerusalem,🇵🇸
+script.js:79 THE COUNTRY NAME WAS - Madagascar AND THEIR CAPITAL,FLAG IS Antananarivo,🇲🇬
+script.js:79 THE COUNTRY NAME WAS - Croatia AND THEIR CAPITAL,FLAG IS Zagreb,🇭🇷
+script.js:79 THE COUNTRY NAME WAS - Faroe Islands AND THEIR CAPITAL,FLAG IS Tórshavn,🇫🇴
+script.js:79 THE COUNTRY NAME WAS - Haiti AND THEIR CAPITAL,FLAG IS Port-au-Prince,🇭🇹
+script.js:79 THE COUNTRY NAME WAS - Montserrat AND THEIR CAPITAL,FLAG IS Plymouth,🇲🇸
+script.js:79 THE COUNTRY NAME WAS - Cook Islands AND THEIR CAPITAL,FLAG IS Avarua,🇨🇰
+script.js:79 THE COUNTRY NAME WAS - Timor-Leste AND THEIR CAPITAL,FLAG IS Dili,🇹🇱
+script.js:79 THE COUNTRY NAME WAS - Martinique AND THEIR CAPITAL,FLAG IS Fort-de-France,🇲🇶
+script.js:79 THE COUNTRY NAME WAS - Cuba AND THEIR CAPITAL,FLAG IS Havana,🇨🇺
+script.js:79 THE COUNTRY NAME WAS - Taiwan AND THEIR CAPITAL,FLAG IS Taipei,🇹🇼
+script.js:79 THE COUNTRY NAME WAS - Eswatini AND THEIR CAPITAL,FLAG IS Mbabane,🇸🇿
+script.js:79 THE COUNTRY NAME WAS - Ukraine AND THEIR CAPITAL,FLAG IS Kyiv,🇺🇦
+script.js:79 THE COUNTRY NAME WAS - Bermuda AND THEIR CAPITAL,FLAG IS Hamilton,🇧🇲
+script.js:79 THE COUNTRY NAME WAS - South Korea AND THEIR CAPITAL,FLAG IS Seoul,🇰🇷
+script.js:79 THE COUNTRY NAME WAS - Peru AND THEIR CAPITAL,FLAG IS Lima,🇵🇪
+script.js:79 THE COUNTRY NAME WAS - Iraq AND THEIR CAPITAL,FLAG IS Baghdad,🇮🇶
+script.js:79 THE COUNTRY NAME WAS - Moldova AND THEIR CAPITAL,FLAG IS Chișinău,🇲🇩
+script.js:79 THE COUNTRY NAME WAS - San Marino AND THEIR CAPITAL,FLAG IS City of San Marino,🇸🇲
+script.js:79 THE COUNTRY NAME WAS - Venezuela AND THEIR CAPITAL,FLAG IS Caracas,🇻🇪
+script.js:79 THE COUNTRY NAME WAS - Guyana AND THEIR CAPITAL,FLAG IS Georgetown,🇬🇾
+script.js:79 THE COUNTRY NAME WAS - Cayman Islands AND THEIR CAPITAL,FLAG IS George Town,🇰🇾
+script.js:79 THE COUNTRY NAME WAS - Cambodia AND THEIR CAPITAL,FLAG IS Phnom Penh,🇰🇭
+script.js:79 THE COUNTRY NAME WAS - Cocos (Keeling) Islands AND THEIR CAPITAL,FLAG IS West Island,🇨🇨
+script.js:79 THE COUNTRY NAME WAS - Malta AND THEIR CAPITAL,FLAG IS Valletta,🇲🇹
+script.js:79 THE COUNTRY NAME WAS - Sri Lanka AND THEIR CAPITAL,FLAG IS Sri Jayawardenepura Kotte,🇱🇰
+script.js:79 THE COUNTRY NAME WAS - Israel AND THEIR CAPITAL,FLAG IS Jerusalem,🇮🇱
+script.js:79 THE COUNTRY NAME WAS - Sudan AND THEIR CAPITAL,FLAG IS Khartoum,🇸🇩
+script.js:79 THE COUNTRY NAME WAS - United States Virgin Islands AND THEIR CAPITAL,FLAG IS Charlotte Amalie,🇻🇮
+script.js:79 THE COUNTRY NAME WAS - Eritrea AND THEIR CAPITAL,FLAG IS Asmara,🇪🇷
+script.js:79 THE COUNTRY NAME WAS - Mali AND THEIR CAPITAL,FLAG IS Bamako,🇲🇱
+script.js:79 THE COUNTRY NAME WAS - Somalia AND THEIR CAPITAL,FLAG IS Mogadishu,🇸🇴
+script.js:79 THE COUNTRY NAME WAS - Norfolk Island AND THEIR CAPITAL,FLAG IS Kingston,🇳🇫
+script.js:79 THE COUNTRY NAME WAS - Comoros AND THEIR CAPITAL,FLAG IS Moroni,🇰🇲
+script.js:79 THE COUNTRY NAME WAS - Nicaragua AND THEIR CAPITAL,FLAG IS Managua,🇳🇮
+script.js:79 THE COUNTRY NAME WAS - Russia AND THEIR CAPITAL,FLAG IS Moscow,🇷🇺
+script.js:79 THE COUNTRY NAME WAS - Uganda AND THEIR CAPITAL,FLAG IS Kampala,🇺🇬
+script.js:79 THE COUNTRY NAME WAS - Nauru AND THEIR CAPITAL,FLAG IS Yaren,🇳🇷
+script.js:79 THE COUNTRY NAME WAS - Switzerland AND THEIR CAPITAL,FLAG IS Bern,🇨🇭
+script.js:79 THE COUNTRY NAME WAS - Portugal AND THEIR CAPITAL,FLAG IS Lisbon,🇵🇹
+script.js:79 THE COUNTRY NAME WAS - Tajikistan AND THEIR CAPITAL,FLAG IS Dushanbe,🇹🇯
+script.js:79 THE COUNTRY NAME WAS - South Sudan AND THEIR CAPITAL,FLAG IS Juba,🇸🇸
+script.js:79 THE COUNTRY NAME WAS - Bouvet Island AND THEIR CAPITAL,FLAG IS undefined,🇧🇻
+script.js:79 THE COUNTRY NAME WAS - Micronesia AND THEIR CAPITAL,FLAG IS Palikir,🇫🇲
+script.js:79 THE COUNTRY NAME WAS - American Samoa AND THEIR CAPITAL,FLAG IS Pago Pago,🇦🇸
+script.js:79 THE COUNTRY NAME WAS - Czechia AND THEIR CAPITAL,FLAG IS Prague,🇨🇿
+script.js:79 THE COUNTRY NAME WAS - Botswana AND THEIR CAPITAL,FLAG IS Gaborone,🇧🇼
+script.js:79 THE COUNTRY NAME WAS - Tunisia AND THEIR CAPITAL,FLAG IS Tunis,🇹🇳
+script.js:79 THE COUNTRY NAME WAS - Anguilla AND THEIR CAPITAL,FLAG IS The Valley,🇦🇮
+script.js:79 THE COUNTRY NAME WAS - Guinea-Bissau AND THEIR CAPITAL,FLAG IS Bissau,🇬🇼
+script.js:79 THE COUNTRY NAME WAS - Slovakia AND THEIR CAPITAL,FLAG IS Bratislava,🇸🇰
+script.js:79 THE COUNTRY NAME WAS - Marshall Islands AND THEIR CAPITAL,FLAG IS Majuro,🇲🇭
+script.js:79 THE COUNTRY NAME WAS - Algeria AND THEIR CAPITAL,FLAG IS Algiers,🇩🇿
+script.js:79 THE COUNTRY NAME WAS - Jamaica AND THEIR CAPITAL,FLAG IS Kingston,🇯🇲
+script.js:79 THE COUNTRY NAME WAS - Mozambique AND THEIR CAPITAL,FLAG IS Maputo,🇲🇿
+script.js:79 THE COUNTRY NAME WAS - Spain AND THEIR CAPITAL,FLAG IS Madrid,🇪🇸
+script.js:79 THE COUNTRY NAME WAS - Honduras AND THEIR CAPITAL,FLAG IS Tegucigalpa,🇭🇳
+script.js:79 THE COUNTRY NAME WAS - Netherlands AND THEIR CAPITAL,FLAG IS Amsterdam,🇳🇱
+script.js:79 THE COUNTRY NAME WAS - South Africa AND THEIR CAPITAL,FLAG IS Pretoria,Bloemfontein,Cape Town,🇿🇦
+script.js:79 THE COUNTRY NAME WAS - Azerbaijan AND THEIR CAPITAL,FLAG IS Baku,🇦🇿
+script.js:79 THE COUNTRY NAME WAS - North Macedonia AND THEIR CAPITAL,FLAG IS Skopje,🇲🇰
+script.js:79 THE COUNTRY NAME WAS - Gambia AND THEIR CAPITAL,FLAG IS Banjul,🇬🇲
+script.js:79 THE COUNTRY NAME WAS - Liberia AND THEIR CAPITAL,FLAG IS Monrovia,🇱🇷
+script.js:79 THE COUNTRY NAME WAS - Luxembourg AND THEIR CAPITAL,FLAG IS Luxembourg,🇱🇺
+script.js:79 THE COUNTRY NAME WAS - Cape Verde AND THEIR CAPITAL,FLAG IS Praia,🇨🇻
+script.js:79 THE COUNTRY NAME WAS - Bahamas AND THEIR CAPITAL,FLAG IS Nassau,🇧🇸
+script.js:79 THE COUNTRY NAME WAS - Georgia AND THEIR CAPITAL,FLAG IS Tbilisi,🇬🇪
+script.js:79 THE COUNTRY NAME WAS - Kiribati AND THEIR CAPITAL,FLAG IS South Tarawa,🇰🇮
+script.js:79 THE COUNTRY NAME WAS - Tanzania AND THEIR CAPITAL,FLAG IS Dodoma,🇹🇿
+script.js:79 THE COUNTRY NAME WAS - China AND THEIR CAPITAL,FLAG IS Beijing,🇨🇳
+script.js:79 THE COUNTRY NAME WAS - Guatemala AND THEIR CAPITAL,FLAG IS Guatemala City,🇬🇹
+script.js:79 THE COUNTRY NAME WAS - São Tomé and Príncipe AND THEIR CAPITAL,FLAG IS São Tomé,🇸🇹
+script.js:79 THE COUNTRY NAME WAS - Germany AND THEIR CAPITAL,FLAG IS Berlin,🇩🇪
+script.js:79 THE COUNTRY NAME WAS - Sierra Leone AND THEIR CAPITAL,FLAG IS Freetown,🇸🇱
+script.js:79 THE COUNTRY NAME WAS - Chad AND THEIR CAPITAL,FLAG IS N'Djamena,🇹🇩
+script.js:79 THE COUNTRY NAME WAS - United Kingdom AND THEIR CAPITAL,FLAG IS London,🇬🇧
+script.js:79 THE COUNTRY NAME WAS - Slovenia AND THEIR CAPITAL,FLAG IS Ljubljana,🇸🇮
+script.js:79 THE COUNTRY NAME WAS - Thailand AND THEIR CAPITAL,FLAG IS Bangkok,🇹🇭
+script.js:79 THE COUNTRY NAME WAS - Indonesia AND THEIR CAPITAL,FLAG IS Jakarta,🇮🇩
+script.js:79 THE COUNTRY NAME WAS - Northern Mariana Islands AND THEIR CAPITAL,FLAG IS Saipan,🇲🇵
+script.js:79 THE COUNTRY NAME WAS - Guam AND THEIR CAPITAL,FLAG IS Hagåtña,🇬🇺
+script.js:79 THE COUNTRY NAME WAS - Finland AND THEIR CAPITAL,FLAG IS Helsinki,🇫🇮
+script.js:79 THE COUNTRY NAME WAS - Mayotte AND THEIR CAPITAL,FLAG IS Mamoudzou,🇾🇹
+script.js:79 THE COUNTRY NAME WAS - Gibraltar AND THEIR CAPITAL,FLAG IS Gibraltar,🇬🇮
+script.js:79 THE COUNTRY NAME WAS - Turkmenistan AND THEIR CAPITAL,FLAG IS Ashgabat,🇹🇲
+script.js:79 THE COUNTRY NAME WAS - Kosovo AND THEIR CAPITAL,FLAG IS Pristina,🇽🇰
+script.js:79 THE COUNTRY NAME WAS - Ivory Coast AND THEIR CAPITAL,FLAG IS Yamoussoukro,🇨🇮
+script.js:79 THE COUNTRY NAME WAS - Morocco AND THEIR CAPITAL,FLAG IS Rabat,🇲🇦
+script.js:79 THE COUNTRY NAME WAS - Dominican Republic AND THEIR CAPITAL,FLAG IS Santo Domingo,🇩🇴
+script.js:79 THE COUNTRY NAME WAS - Ghana AND THEIR CAPITAL,FLAG IS Accra,🇬🇭
+script.js:79 THE COUNTRY NAME WAS - Vatican City AND THEIR CAPITAL,FLAG IS Vatican City,🇻🇦
+script.js:79 THE COUNTRY NAME WAS - Jersey AND THEIR CAPITAL,FLAG IS Saint Helier,🇯🇪
+script.js:79 THE COUNTRY NAME WAS - Turkey AND THEIR CAPITAL,FLAG IS Ankara,🇹🇷
+script.js:79 THE COUNTRY NAME WAS - Tuvalu AND THEIR CAPITAL,FLAG IS Funafuti,🇹🇻
+script.js:79 THE COUNTRY NAME WAS - Iran AND THEIR CAPITAL,FLAG IS Tehran,🇮🇷
+script.js:79 THE COUNTRY NAME WAS - Egypt AND THEIR CAPITAL,FLAG IS Cairo,🇪🇬
+script.js:79 THE COUNTRY NAME WAS - Denmark AND THEIR CAPITAL,FLAG IS Copenhagen,🇩🇰
+script.js:79 THE COUNTRY NAME WAS - Kenya AND THEIR CAPITAL,FLAG IS Nairobi,🇰🇪
+script.js:79 THE COUNTRY NAME WAS - Bulgaria AND THEIR CAPITAL,FLAG IS Sofia,🇧🇬
+script.js:79 THE COUNTRY NAME WAS - Zimbabwe AND THEIR CAPITAL,FLAG IS Harare,🇿🇼
+script.js:79 THE COUNTRY NAME WAS - Angola AND THEIR CAPITAL,FLAG IS Luanda,🇦🇴
+script.js:79 THE COUNTRY NAME WAS - Nigeria AND THEIR CAPITAL,FLAG IS Abuja,🇳🇬
+script.js:79 THE COUNTRY NAME WAS - Poland AND THEIR CAPITAL,FLAG IS Warsaw,🇵🇱
+script.js:79 THE COUNTRY NAME WAS - Senegal AND THEIR CAPITAL,FLAG IS Dakar,🇸🇳
+script.js:79 THE COUNTRY NAME WAS - Saint Helena, Ascension and Tristan da Cunha AND THEIR CAPITAL,FLAG IS Jamestown,🇸🇭
+script.js:79 THE COUNTRY NAME WAS - Lebanon AND THEIR CAPITAL,FLAG IS Beirut,🇱🇧
+script.js:79 THE COUNTRY NAME WAS - Samoa AND THEIR CAPITAL,FLAG IS Apia,🇼🇸
+script.js:79 THE COUNTRY NAME WAS - Philippines AND THEIR CAPITAL,FLAG IS Manila,🇵🇭
+script.js:79 THE COUNTRY NAME WAS - Guernsey AND THEIR CAPITAL,FLAG IS St. Peter Port,🇬🇬
+script.js:79 THE COUNTRY NAME WAS - El Salvador AND THEIR CAPITAL,FLAG IS San Salvador,🇸🇻
+script.js:79 THE COUNTRY NAME WAS - Kuwait AND THEIR CAPITAL,FLAG IS Kuwait City,🇰🇼
+script.js:79 THE COUNTRY NAME WAS - Tonga AND THEIR CAPITAL,FLAG IS Nuku'alofa,🇹🇴
+script.js:79 THE COUNTRY NAME WAS - Oman AND THEIR CAPITAL,FLAG IS Muscat,🇴🇲
+script.js:79 THE COUNTRY NAME WAS - Afghanistan AND THEIR CAPITAL,FLAG IS Kabul,🇦🇫
+script.js:79 THE COUNTRY NAME WAS - Saint Kitts and Nevis AND THEIR CAPITAL,FLAG IS Basseterre,🇰🇳
+script.js:79 THE COUNTRY NAME WAS - Central African Republic AND THEIR CAPITAL,FLAG IS Bangui,🇨🇫
+script.js:79 THE COUNTRY NAME WAS - Serbia AND THEIR CAPITAL,FLAG IS Belgrade,🇷🇸
+script.js:79 THE COUNTRY NAME WAS - Armenia AND THEIR CAPITAL,FLAG IS Yerevan,🇦🇲
+script.js:79 THE COUNTRY NAME WAS - Bangladesh AND THEIR CAPITAL,FLAG IS Dhaka,🇧🇩
+script.js:79 THE COUNTRY NAME WAS - Laos AND THEIR CAPITAL,FLAG IS Vientiane,🇱🇦
+script.js:79 THE COUNTRY NAME WAS - Chile AND THEIR CAPITAL,FLAG IS Santiago,🇨🇱
+script.js:79 THE COUNTRY NAME WAS - French Polynesia AND THEIR CAPITAL,FLAG IS Papeetē,🇵🇫
+script.js:79 THE COUNTRY NAME WAS - Panama AND THEIR CAPITAL,FLAG IS Panama City,🇵🇦
+script.js:79 THE COUNTRY NAME WAS - United States AND THEIR CAPITAL,FLAG IS Washington, D.C.,🇺🇸
+script.js:79 THE COUNTRY NAME WAS - Nepal AND THEIR CAPITAL,FLAG IS Kathmandu,🇳🇵
+script.js:79 THE COUNTRY NAME WAS - Myanmar AND THEIR CAPITAL,FLAG IS Naypyidaw,🇲🇲
+script.js:79 THE COUNTRY NAME WAS - Falkland Islands AND THEIR CAPITAL,FLAG IS Stanley,🇫🇰
+script.js:79 THE COUNTRY NAME WAS - Hungary AND THEIR CAPITAL,FLAG IS Budapest,🇭🇺
+script.js:79 THE COUNTRY NAME WAS - Palau AND THEIR CAPITAL,FLAG IS Ngerulmud,🇵🇼
+script.js:79 THE COUNTRY NAME WAS - Equatorial Guinea AND THEIR CAPITAL,FLAG IS Malabo,🇬🇶
+script.js:79 THE COUNTRY NAME WAS - Guinea AND THEIR CAPITAL,FLAG IS Conakry,🇬🇳
+script.js:79 THE COUNTRY NAME WAS - United Arab Emirates AND THEIR CAPITAL,FLAG IS Abu Dhabi,🇦🇪
+script.js:79 THE COUNTRY NAME WAS - Turks and Caicos Islands AND THEIR CAPITAL,FLAG IS Cockburn Town,🇹🇨
+script.js:79 THE COUNTRY NAME WAS - British Virgin Islands AND THEIR CAPITAL,FLAG IS Road Town,🇻🇬
+script.js:79 THE COUNTRY NAME WAS - Liechtenstein AND THEIR CAPITAL,FLAG IS Vaduz,🇱🇮
+script.js:79 THE COUNTRY NAME WAS - Bosnia and Herzegovina AND THEIR CAPITAL,FLAG IS Sarajevo,🇧🇦
+script.js:79 THE COUNTRY NAME WAS - Malawi AND THEIR CAPITAL,FLAG IS Lilongwe,🇲🇼
+script.js:79 THE COUNTRY NAME WAS - Bhutan AND THEIR CAPITAL,FLAG IS Thimphu,🇧🇹
+script.js:79 THE COUNTRY NAME WAS - Cameroon AND THEIR CAPITAL,FLAG IS Yaoundé,🇨🇲
+script.js:79 THE COUNTRY NAME WAS - Andorra AND THEIR CAPITAL,FLAG IS Andorra la Vella,🇦🇩
+script.js:79 THE COUNTRY NAME WAS - Guadeloupe AND THEIR CAPITAL,FLAG IS Basse-Terre,🇬🇵
+script.js:79 THE COUNTRY NAME WAS - Republic of the Congo AND THEIR CAPITAL,FLAG IS Brazzaville,🇨🇬
+script.js:79 THE COUNTRY NAME WAS - Réunion AND THEIR CAPITAL,FLAG IS Saint-Denis,🇷🇪
+script.js:79 THE COUNTRY NAME WAS - Burkina Faso AND THEIR CAPITAL,FLAG IS Ouagadougou,🇧🇫
+script.js:79 THE COUNTRY NAME WAS - Jordan AND THEIR CAPITAL,FLAG IS Amman,🇯🇴
+script.js:79 THE COUNTRY NAME WAS - DR Congo AND THEIR CAPITAL,FLAG IS Kinshasa,🇨🇩
+script.js:79 THE COUNTRY NAME WAS - Tokelau AND THEIR CAPITAL,FLAG IS Fakaofo,🇹🇰
+script.js:79 THE COUNTRY NAME WAS - Vietnam AND THEIR CAPITAL,FLAG IS Hanoi,🇻🇳
+script.js:79 THE COUNTRY NAME WAS - Sint Maarten AND THEIR CAPITAL,FLAG IS Philipsburg,🇸🇽
+script.js:79 THE COUNTRY NAME WAS - Belgium AND THEIR CAPITAL,FLAG IS Brussels,🇧🇪
+script.js:79 THE COUNTRY NAME WAS - United States Minor Outlying Islands AND THEIR CAPITAL,FLAG IS Washington DC,🇺🇲
+script.js:79 THE COUNTRY NAME WAS - Brazil AND THEIR CAPITAL,FLAG IS Brasília,🇧🇷
+script.js:79 THE COUNTRY NAME WAS - Belize AND THEIR CAPITAL,FLAG IS Belmopan,🇧🇿
+script.js:79 THE COUNTRY NAME WAS - Antigua and Barbuda AND THEIR CAPITAL,FLAG IS Saint John's,🇦🇬
+script.js:79 THE COUNTRY NAME WAS - Paraguay AND THEIR CAPITAL,FLAG IS Asunción,🇵🇾
+script.js:79 THE COUNTRY NAME WAS - Benin AND THEIR CAPITAL,FLAG IS Porto-Novo,🇧🇯
+script.js:79 THE COUNTRY NAME WAS - Brunei AND THEIR CAPITAL,FLAG IS Bandar Seri Begawan,🇧🇳
+script.js:79 THE COUNTRY NAME WAS - Bolivia AND THEIR CAPITAL,FLAG IS Sucre,🇧🇴
+script.js:79 THE COUNTRY NAME WAS - Djibouti AND THEIR CAPITAL,FLAG IS Djibouti,🇩🇯
+script.js:79 THE COUNTRY NAME WAS - French Guiana AND THEIR CAPITAL,FLAG IS Cayenne,🇬🇫
+script.js:79 THE COUNTRY NAME WAS - Canada AND THEIR CAPITAL,FLAG IS Ottawa,🇨🇦
+script.js:79 THE COUNTRY NAME WAS - Saint Pierre and Miquelon AND THEIR CAPITAL,FLAG IS Saint-Pierre,🇵🇲
+script.js:79 THE COUNTRY NAME WAS - Japan AND THEIR CAPITAL,FLAG IS Tokyo,🇯🇵
+script.js:79 THE COUNTRY NAME WAS - Rwanda AND THEIR CAPITAL,FLAG IS Kigali,🇷🇼
+script.js:79 THE COUNTRY NAME WAS - Saint Vincent and the Grenadines AND THEIR CAPITAL,FLAG IS Kingstown,🇻🇨
+script.js:79 THE COUNTRY NAME WAS - Iceland AND THEIR CAPITAL,FLAG IS Reykjavik,🇮🇸
+script.js:79 THE COUNTRY NAME WAS - Belarus AND THEIR CAPITAL,FLAG IS Minsk,🇧🇾
+script.js:79 THE COUNTRY NAME WAS - Hong Kong AND THEIR CAPITAL,FLAG IS City of Victoria,🇭🇰
+script.js:79 THE COUNTRY NAME WAS - Lesotho AND THEIR CAPITAL,FLAG IS Maseru,🇱🇸
+script.js:79 THE COUNTRY NAME WAS - Fiji AND THEIR CAPITAL,FLAG IS Suva,🇫🇯
+script.js:79 THE COUNTRY NAME WAS - Austria AND THEIR CAPITAL,FLAG IS Vienna,🇦🇹
+script.js:79 THE COUNTRY NAME WAS - Colombia AND THEIR CAPITAL,FLAG IS Bogotá,🇨🇴
+script.js:79 THE COUNTRY NAME WAS - Gabon AND THEIR CAPITAL,FLAG IS Libreville,🇬🇦
+script.js:79 THE COUNTRY NAME WAS - Saudi Arabia AND THEIR CAPITAL,FLAG IS Riyadh,🇸🇦
+script.js:79 THE COUNTRY NAME WAS - South Georgia AND THEIR CAPITAL,FLAG IS King Edward Point,🇬🇸
+script.js:79 THE COUNTRY NAME WAS - Ethiopia AND THEIR CAPITAL,FLAG IS Addis Ababa,🇪🇹
+script.js:79 THE COUNTRY NAME WAS - Caribbean Netherlands AND THEIR CAPITAL,FLAG IS Kralendijk,🇧🇶
+script.js:79 THE COUNTRY NAME WAS - Monaco AND THEIR CAPITAL,FLAG IS Monaco,🇲🇨
+script.js:79 THE COUNTRY NAME WAS - North Korea AND THEIR CAPITAL,FLAG IS Pyongyang,🇰🇵
+script.js:79 THE COUNTRY NAME WAS - Italy AND THEIR CAPITAL,FLAG IS Rome,🇮🇹
+script.js:79 THE COUNTRY NAME WAS - Namibia AND THEIR CAPITAL,FLAG IS Windhoek,🇳🇦
+script.js:79 THE COUNTRY NAME WAS - Mongolia AND THEIR CAPITAL,FLAG IS Ulan Bator,🇲🇳
+script.js:79 THE COUNTRY NAME WAS - Solomon Islands AND THEIR CAPITAL,FLAG IS Honiara,🇸🇧
+script.js:79 THE COUNTRY NAME WAS - Yemen AND THEIR CAPITAL,FLAG IS Sana'a,🇾🇪
+script.js:79 THE COUNTRY NAME WAS - Romania AND THEIR CAPITAL,FLAG IS Bucharest,🇷🇴
+script.js:79 THE COUNTRY NAME WAS - Svalbard and Jan Mayen AND THEIR CAPITAL,FLAG IS Longyearbyen,🇸🇯
+script.js:79 THE COUNTRY NAME WAS - France AND THEIR CAPITAL,FLAG IS Paris,🇫🇷
+
+
+-----------------------------------------------------------------------------------------------------------
